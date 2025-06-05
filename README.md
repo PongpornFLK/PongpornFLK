@@ -1,4 +1,4 @@
-Hi 👋 My name is Pongporn Fluke
+Hi 👋 My name is Pongporn , Fluke
 ===============================
 
 I’m third-year student majoring in Computer Science, at King Mongkut's University of Technology North Bangkok.
