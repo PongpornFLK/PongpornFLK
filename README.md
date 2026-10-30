@@ -3,7 +3,7 @@ Hi 👋 My name is Pongporn , Fluke
 
 I’m third-year student majoring in Computer Science, at King Mongkut's University of Technology North Bangkok.
 
-* ✉️  You can contact me at mail : [pongporn.yt2910@gmail.com](mailto:pongporn.yt2910@gmail.com)
+* ✉️  You can contact me at mail : [pongporn.yt2910@gmail.com](mailto:pongporn.cs2910@gmail.com)
 
 ### Socials
 
